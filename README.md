@@ -1,6 +1,4 @@
 # sphereGeometry
-<img width="851" alt="Capture d’écran 2022-11-09 172951" src="https://user-images.githubusercontent.com/71389760/200886866-cd7527c5-5f0f-4500-aa4b-9acee82b2517.png">
-
 
 
 ## Setup
